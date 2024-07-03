@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Draggable{
+  position: absolute;
+}
+
+.selected{
+  padding: 2px;
+  border: 2px solid rgb(221, 82, 82) !important;
+}
+
+.DraggableInput, .Draggableinput{
+  border: 1px solid black;
+  outline: none;
+}
+
+.DraggableButton, .Draggablebutton{
+  background-color: #0044C1;
+  color: white;
+  padding: 10px 20px;
+}
+
+
