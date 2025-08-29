@@ -11,7 +11,7 @@ Follow these steps to set up and run the project locally.
 
 First, you need to clone the repository to your local machine. Open your terminal and run the following command:
 
-### `https://github.com/Ketan-Ag/Mini-Page-Builder.git`
+### `https://github.com/Vishalarya07/Mini-Page-Builder.git`
 
 ## Navigate to the Project Directory
 
